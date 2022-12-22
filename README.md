@@ -1,4 +1,6 @@
-# Deep_Learning_Final_Project
+# Deep Learning Final Project
+# Benchmarking of T5 for Text Summarization![image](https://user-images.githubusercontent.com/26515041/209145994-64801782-c3db-4dcf-9da8-3efd5457fda2.png)
+
 
 The notebook contains the finetuning script for training the T5 model on a custom dataset, CNN/Daily Mail. 
 
