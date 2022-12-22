@@ -12,3 +12,7 @@ Model files are stored in this format :
 Results : 
 
 ![image](https://user-images.githubusercontent.com/26515041/209145599-07c63092-3ff9-4373-b143-ee1c8b02f13f.png)
+
+Training Loss vs Epochs for training 50k Articles: 
+
+![loss](https://user-images.githubusercontent.com/26515041/209145790-79c99df9-fc6a-4f48-ae39-6752eaf7939c.png)
